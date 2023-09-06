@@ -1,3 +1,3 @@
 def call() {
-    sh "ls -al"
+    sh "echo hariom ji"
 }
